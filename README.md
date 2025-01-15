@@ -1,9 +1,9 @@
 # A-Silly-Pi-Case-
 A Raspberry Pi case, nothing too special - works with or without PoE hat (Check Versions)
 
-The "Silly .STL File" has the .step too FOR PoE
+The "Silly .STL File" has the .step too FOR PoE holes and spare USB access 
 
-"Plain" Case has .STL and .step WITHOUT a PoE hat
+"Plain" Case has .STL and .step WITHOUT a PoE hat additions
 
 ![Screenshot from 2025-01-13 22-52-12](https://github.com/user-attachments/assets/875c2653-bba3-4257-85e0-340b1f6f7d58)
 
